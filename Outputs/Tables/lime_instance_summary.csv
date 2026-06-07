@@ -1,0 +1,5 @@
+Dataset,Record,Actual,Predicted,Figure
+Wind power,7500,0.2064,0.21611900000000014,figure_lime_wind_record_7500.png
+Wind power,13000,0.1205,0.12646599999999983,figure_lime_wind_record_13000.png
+Electricity demand,5000,1295.4264,1249.503112167545,figure_lime_electricity_record_5000.png
+Electricity demand,10000,1010.4834,934.892203333333,figure_lime_electricity_record_10000.png

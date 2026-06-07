@@ -1,0 +1,7 @@
+Action,Count,Percentage
+Discharge battery storage to support low renewable generation,169,1.1723898716614638
+Shift EV charging to off-peak period,695,4.821366631980576
+Issue carbon-alert and activate flexible demand response,282,1.9562955254942769
+Normal operation with monitoring,305,2.115851543531044
+Store excess wind generation to avoid curtailment,13524,93.81893860561915
+Adjust smart HVAC schedule to reduce peak demand,15,0.10405827263267431

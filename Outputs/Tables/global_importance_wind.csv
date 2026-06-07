@@ -1,0 +1,11 @@
+Feature,Importance,Dataset
+windspeed_100m,0.3751569966661471,Wind power
+windspeed_10m,0.23449013501920304,Wind power
+windgusts_10m,0.12668344730050832,Wind power
+temperature_2m,0.0393117191666215,Wind power
+Hour,0.03891226717235994,Wind power
+dewpoint_2m,0.0385547348679955,Wind power
+Month,0.03759155589506913,Wind power
+winddirection_100m,0.03750577773737141,Wind power
+winddirection_10m,0.03595938434004603,Wind power
+relativehumidity_2m,0.03583398183467801,Wind power

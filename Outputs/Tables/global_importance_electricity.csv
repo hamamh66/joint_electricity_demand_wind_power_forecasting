@@ -1,0 +1,13 @@
+Feature,Importance,Dataset
+Hour,0.363891445202372,Electricity demand
+T2M_dav,0.15685128928582062,Electricity demand
+T2M_toc,0.12917144794417235,Electricity demand
+T2M_san,0.10258340650136918,Electricity demand
+holiday,0.03870107034164368,Electricity demand
+Month,0.023948905674313646,Electricity demand
+TQL_toc,0.023321784017089498,Electricity demand
+QV2M_toc,0.022017316117363038,Electricity demand
+W2M_san,0.020809270225395183,Electricity demand
+W2M_toc,0.020766220248630944,Electricity demand
+TQL_san,0.02036778308472126,Electricity demand
+QV2M_san,0.020295625728269907,Electricity demand

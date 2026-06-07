@@ -1,0 +1,8 @@
+KPI,Value
+Mean grid draw before control (MW),431.1485263445444
+Mean grid draw after rule layer (MW),425.3108572498514
+Mean grid-draw reduction (MW),5.8376690946930285
+Peak grid draw before control (MW),1280.3396627239592
+Peak grid draw after rule layer (MW),1160.8663802629762
+Peak shaving (MW),119.473282460983
+Estimated avoided emissions per hour-equivalent (tCO2),37867.5
